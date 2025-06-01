@@ -194,6 +194,25 @@ En anglais : _« pin a repository »_
 
 ---
 
+# Construire, Copier, Utiliser
+
+<br/>
+
+En plus d'écrire votre propre HTML/CSS/JavaScript : 
+
+Utilisez des framework :
+* JavaScript: https://react.dev/, https://fr.vuejs.org/, https://svelte.dev/
+* CSS: https://tailwindcss.com/, https://getbootstrap.com/
+* des « component libraries » (= du CSS pour des framework JS) ; voir par exemple https://prismic.io/blog/react-component-libraries
+* vous allez avoir besoin de vos connaissances en JavaScript et CSS pour les utiliser au maximum
+
+Copiez des designs :
+* en étudiant le code
+* « à l'oeil »
+
+
+---
+
 # Idées de projets en vrac
 
 * journal de dévelopement
